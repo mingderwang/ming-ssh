@@ -1,0 +1,13 @@
+node_modules
+expo
+assets
+components
+services
+App.js
+SnackApp.js
+app.json
+babel.config.js
+bun.lock
+railway.toml
+.git
+.gitignore
